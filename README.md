@@ -36,7 +36,7 @@
 - [Hack Google chrome No Internet Dino Game!](https://ayushirawat.com/hack-google-chrome-no-internet-dino-game)
 - [How Dependency Injection works in Angular](https://levelup.gitconnected.com/how-does-dependency-injection-work-in-angular-6f398963de4c)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://medium.com/@jsomineni)
+➡️ [Tech Blogs](https://medium.com/@jsomineni)
 </td>
 <td valign="top" width="50%">
 
@@ -45,6 +45,7 @@
 - [How to export as excel from JSON object by using JavaScript  ](https://youtu.be/AaN9riXBMTw)
 - [4 ways to create a React project | ReactJS](https://www.youtube.com/watch?v=goWJOZbqIbo)
 - [Different ways to display images in react js ](https://www.youtube.com/watch?v=a6gsciTV0r0)
+- [How to download web pages as PDF with JavaScript](https://www.youtube.com/watch?v=DcN-AL6lXaY)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/channel/UCNVKOc0Ya-MVHElzxT7htxw)
 </td>
