@@ -53,12 +53,12 @@
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jayanthbabu123&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
 
 </details>
 
 
- ![Visitor Count](https://profile-counter.glitch.me/{jayanthbabu123}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/jayanthbabu123/count.svg)
 
 [youtube]: https://www.youtube.com/channel/UCNVKOc0Ya-MVHElzxT7htxw
 [linkedin]: https://www.linkedin.com/in/jayanth-babu-somineni-b484ab12a/
