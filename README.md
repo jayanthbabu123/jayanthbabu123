@@ -25,7 +25,9 @@
 <!--* I'm looking to collaborate on Open source project for Hacktoberfest-->
 
 ---
-
+<a href="https://github.com/jayanthbabu123/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanthbabu123&theme=radical&hide=glsl,python" />
+</a>
 <table><tr><td valign="top" width="50%">
 
 ### My Latest Blog Posts 🌱
