@@ -6,7 +6,7 @@
 [<img height="30" src="https://img.shields.io/github/followers/jayanthbabu123?style=social" />][Github]
 
 ### My Tech Toolbox 🧰
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayanthbabu123" alt="jayanthbabu123" /> </p>
 <p align="left">
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="60" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/>   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/>  <img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png" alt="react" height="40" /> <img src="https://img.icons8.com/color/50/000000/angularjs.png"/ alt="angular" height="40"> <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm" height="40"> <img src="https://img.icons8.com/nolan/64/json.png" alt="json" height="40" /> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" height="40" />   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" height="40"/>
 </p>
