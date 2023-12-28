@@ -1,5 +1,5 @@
 # Jayanth babu S
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Jayanth babu S](https://www.linkedin.com/in/jayanth-babu-somineni-b484ab12a/)
+# [Hi I am Jayanth babu S](https://www.linkedin.com/in/jayanth-babu-somineni-b484ab12a/)
 
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
